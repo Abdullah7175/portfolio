@@ -32,7 +32,7 @@ export default function Home() {
       id: 3,
       title: 'AI Content Generator',
       description: 'AI-powered content generation tool with custom templates',
-      image: 'https://images.unsplash.com/photo-1677442135136-760c813a743e?q=80&w=1932&auto=format&fit=crop',
+      image: "/ai.jpg",
       tags: ['Python', 'React', 'OpenAI API', 'FastAPI'],
       details: 'Built an AI content generation platform that helps marketers create high-quality content quickly. Integrated with OpenAI API and developed custom templates for different content types.',
       link: '#'
